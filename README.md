@@ -8,7 +8,7 @@ This project is a full-stack application with:
 
 ---
 
-## 📦 Client Setup (Frontend)
+## 📦 Full Project Setup Step
 
 ```bash
 # Step 1: Navigate into the client directory
