@@ -1,4 +1,4 @@
-# 🛍️ Full Stack Product Dashboard
+# 🛍️ Printfuse Task
 
 This project is a full-stack application with:
 
